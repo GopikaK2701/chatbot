@@ -1,2 +1,2 @@
-# chatbot
-Chatbot using streamlit
+# Chatbot
+Chatbot made using streamlit
